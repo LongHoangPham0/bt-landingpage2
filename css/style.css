@@ -1,0 +1,66 @@
+body {
+    font-family: 'Montserrat', sans-serif !important;
+}
+.vr {
+    border: 1px solid #003B5B;
+    height: 48px;
+}
+.contain {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.header1{
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: 0em;
+}
+.header2{
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 59px;
+    letter-spacing: 0em;
+    color: #DA2A1B;
+}
+.typo1{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: justify;
+}
+.typo2{
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 37px;
+    letter-spacing: 0em;
+    color: #003B5B;
+}
+.typo3{
+    color:white;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 40px;
+    letter-spacing: 0em;
+}
+.red-circle-1{
+    background-image: url("data:image/svg+xml,%3Csvg%20width%3D%22255%22%20height%3D%22128%22%20viewBox%3D%220%200%20255%20128%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Ccircle%20cx%3D%22127.5%22%20cy%3D%220.5%22%20r%3D%22127.5%22%20fill%3D%22%23DA2A1B%22%2F%3E%0A%3C%2Fsvg%3E%0A");
+    background-repeat: no-repeat;
+    margin-top: -55px;
+    padding-top: 150px;
+    background-position:top 0px left 50%;
+}
+.red-circle-2{
+    background-image: url("data:image/svg+xml,%3Csvg%20width%3D%22123%22%20height%3D%22166%22%20viewBox%3D%220%200%20123%20166%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Ccircle%20cx%3D%22-4.5%22%20cy%3D%22127.5%22%20r%3D%22127.5%22%20fill%3D%22%23DA2A1B%22%2F%3E%0A%3C%2Fsvg%3E%0A");
+    background-repeat: no-repeat;
+    margin-top: -55px;
+    padding-top: 150px;
+    background-position:top 0px left 0%;
+}
+.blue-circle{
+    background-image: url("data:image/svg+xml,%3Csvg%20width%3D%22140%22%20height%3D%22255%22%20viewBox%3D%220%200%20140%20255%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Ccircle%20cx%3D%22127.5%22%20cy%3D%22127.5%22%20r%3D%22127.5%22%20fill%3D%22%23003B5B%22%2F%3E%0A%3C%2Fsvg%3E%0A");
+    background-repeat: no-repeat;
+    margin-top: -250px;
+    padding-top: 250px;
+    background-position:top -20px left 100%;
+}
